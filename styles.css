@@ -1,0 +1,295 @@
+body {
+  background-color: #ffffff;
+  font-family: "Encode Sans", sans-serif;
+}
+
+.meio {
+  justify-content: center;
+  background-color: #ffffff;
+  margin-left: 60px;
+  width: 1250px;
+}
+
+.borda {
+  height: 1px;
+  margin-top: 40px;
+  background-color: #f5f6f7;
+}
+.borda2 {
+  height: 1px;
+  margin-top: 3px;
+  background-color: #f5f6f7;
+}
+.logo {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 22px;
+}
+.barra {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 40px;
+  font-size: 19px;
+  font-weight: bold;
+  cursor: pointer;
+}
+.g1:hover {
+  color: black;
+}
+.oglobo:hover {
+  color: black;
+}
+.valor:hover {
+  color: black;
+}
+.ge:hover {
+  color: black;
+}
+.cartola:hover {
+  color: black;
+}
+.globoplay:hover {
+  color: black;
+}
+.dropz:hover {
+  color: black;
+}
+.gshow:hover {
+  color: black;
+}
+.quem:hover {
+  color: black;
+}
+.receitas:hover {
+  color: black;
+}
+.g1 {
+  color: #c3170c;
+}
+.oglobo {
+  color: #1e4b9b;
+}
+.valor {
+  color: #006766;
+}
+.ge {
+  color: #07aa47;
+}
+.cartola {
+  color: #e3662b;
+}
+.globoplay {
+  color: #fb0735;
+}
+.dropz {
+  color: #ff75bb;
+}
+.gshow {
+  color: #ec7d00;
+}
+.quem {
+  color: #323333;
+}
+.receitas {
+  color: #a81d83;
+}
+.conteudo {
+  display: flex;
+  margin-top: 35px;
+  margin-left: 60px;
+  width: 1250px;
+  background-color: #ffffff;
+  cursor: pointer;
+}
+.manchete {
+  background-color: #ffffff;
+  height: 201px;
+  width: 624px;
+  display: flex;
+  align-items: center;
+}
+.segunda-manchete {
+  margin-bottom: 51px;
+}
+.h1 {
+  font-size: 52px;
+  font-weight: bold;
+  color: #c4160c;
+}
+.h2 {
+  font-size: 18px;
+  height: 25px;
+  width: 622px;
+  color: #303134;
+}
+.h3 {
+  font-size: 18px;
+  height: 25px;
+  width: 622px;
+  color: #303134;
+  margin-bottom: 51px;
+}
+.topico1 {
+  display: flex;
+  justify-content: space-between;
+  background-color: #ffffff;
+  height: 290px;
+  width: 627px;
+}
+.n1 {
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  height: 110px;
+  width: 193px;
+}
+.h4 {
+  color: #c4160c;
+  font-size: 14px;
+  width: 192px;
+  height: 19px;
+  font-weight: bold;
+}
+.t1 {
+  margin-top: 10px;
+  width: 192px;
+  height: 84px;
+  background-color: #ffffff;
+}
+.h5 {
+  color: #303134;
+  font-size: 20px;
+  font-weight: bold;
+}
+.t2 {
+  width: 174px;
+  height: 1px;
+  background-color: #ffffff;
+}
+.h6 {
+  font-size: 14px;
+  color: #2f3134;
+}
+.h7 {
+  font-size: 14px;
+  color: #2f3134;
+}
+.topico2 {
+  display: flex;
+  justify-content: space-between;
+  background-color: #ffffff;
+  margin-top: 62px;
+  margin-bottom: 87px;
+  height: 156px;
+  width: 627px;
+}
+.bordaseparadora {
+  height: 845px;
+  width: 1px;
+  background-color: #ebedef;
+}
+.topico3 {
+  height: 845px;
+  width: 308px;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.bordaseparadora2 {
+  height: 845px;
+  width: 1px;
+  background-color: #ebedef;
+}
+.topico4 {
+  height: 845px;
+  width: 308px;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.direita {
+  display: flex;
+}
+
+.verde {
+  color: #16ae54;
+  height: 19px;
+  width: 240px;
+  font-size: 14px;
+}
+.m2 {
+  margin-bottom: 10px;
+  border-radius: 12px;
+  height: 128px;
+  width: 240px;
+}
+
+.u1 {
+  margin-top: 10px;
+  height: 84px;
+  width: 240px;
+  font-size: 20px;
+}
+
+.u2 {
+  height: 43px;
+  width: 217px;
+  font-size: 14px;
+}
+
+.amarelo {
+  color: #ec8006;
+  height: 19px;
+  width: 240px;
+  font-size: 14px;
+  margin-top: 10px;
+}
+.o3 {
+  margin-bottom: 10px;
+  border-radius: 12px;
+  height: 128px;
+  width: 240px;
+}
+.v0 {
+  margin-top: 10px;
+  height: 26px;
+  width: 240px;
+  font-size: 20px;
+}
+.v1 {
+  margin-top: 10px;
+  height: 19px;
+  width: 240px;
+  font-size: 20px;
+}
+.v2 {
+  height: 21px;
+  width: 217px;
+  font-size: 14px;
+  margin-top: 35px;
+}
+.v3 {
+  height: 21px;
+  width: 217px;
+  font-size: 14px;
+  margin-top: 8px;
+}
+.materia1 {
+  margin-bottom: 30px;
+}
+.materia2 {
+  margin-bottom: 30px;
+}
+.nota1 {
+  margin-bottom: 30px;
+}
+.nota2 {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+a:link {
+  text-decoration: none;
+}
